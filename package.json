@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "join-images": "^1.1.3",
+    "qrcode": "^1.5.1",
+    "sharp": "^0.31.3",
+    "text-to-image": "^5.2.0"
+  }
+}
